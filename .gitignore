@@ -1,0 +1,38 @@
+# .gitignore (for Python)
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+pip-wheel-metadata/
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# pyenv
+.python-version
+
+# VSCode settings
+.vscode/
+
+# Distribution / packaging
+build/
+dist/
+*.egg
+.eggs/
+
+# Logs and artifacts
+logs/
+artifacts/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
