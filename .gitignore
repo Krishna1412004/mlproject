@@ -6,7 +6,6 @@ __pycache__/
 *$py.class
 
 # Virtual environment
-.artifacts
 venv/
 env/
 ENV/
@@ -31,7 +30,7 @@ dist/
 
 # Logs and artifacts
 logs/
-artifacts/
+.artifacts/
 *.log
 
 # OS files
